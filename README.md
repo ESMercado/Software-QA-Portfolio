@@ -11,23 +11,66 @@ With this portfolio, I would like to share the things I have learned and applied
 # 
 **Experience**
 
+**Testing Experience**
+
 Officially, I have less than a year of experience as a Software Tester in a commercial setting. My position was Software Tester I as part of the developement team and my main responsibilities being in the role are: 
-- Conduct manual testing following test cases created by a QA lead.
+- Conduct test following test cases created by a QA lead.
 - Report Bug/Issues found within the ongoing projects of the company using JIRA.
-- Coordinate with the developers of test scenarios
-- Update outdated test cases of the existing documentation.
+- Coordinate with the developers of test scenarios. 
+- Update outdated test cases of the existing documentation of a project.
+
+Even though I had a short time as a Tester, having a background in web development and DevOps techniques allowed me to quickly pick up testing methodologies and techniques with litle needed training by the company during that time. I am also learning Automation Testing and API Testing on my free time which I have samples below.
+
+**Collaboration Experience**
+
+ With regards to working with a team, I am fairly comfortable both working remotely or on-site as this has been my working environment since 2019. I have communicated and collaborated both clients or colleagues using multiple modern forms of communication.
 
 #
 **Tools**
+- Test Documentation
+  - [Test Rail](https://www.testrail.com/)
+  - MS Word or Google Docs
+  - Excel or Google Sheets
+  - [PicPick](https://picpick.app/en/)
+- Project Management
+  - [JIRA](https://www.atlassian.com/software/jira)
+- Automation Testing
+  - [Puppeteer.JS](https://pptr.dev/)
+  - [Playwright](https://playwright.dev/)
+  - [Cypress](https://www.cypress.io/)
+  - Selenium
+- API Testing
+  - Postman
+- Development
+  - VSCode
+  - Git
+  - GitHub
+  - [Google Apps Script](https://www.google.com/script/start/)
+  - Javascript
+  - Node.JS
 
 #
 **Technical Skills**
+- Web development (Html, CSS, Javascript)
+- Project Documentation
+- Test Documentation
+- Manual testing
+- Automation Testing
+- REST API Testing
+- Basic Python for file and data management
+- Moderate Data Analytics 
 
-# 
-**Education**
-
+#
+**Soft Skills**
+- Communication in a corporate setting
+- Collaboration
+- Resourcefullness
+- Attention to detail
+- Can work independently if needed
+  
 # 
 **Training**
+[Software Quality Assurance Manual Testing]()
 
 # 
 **Certificates**
