@@ -70,10 +70,19 @@ Even though I had a short time as a Tester, having a background in web developme
   
 # 
 **Training**
-[Software Quality Assurance Manual Testing]()
+- Software Quality Assurance Manual Testing
 
 # 
 **Certificates**
 
+[Software Quality Assurance Manual Testing](https://drive.google.com/file/d/1rrIm3YzpIHZZot9mC2Y6b9hJSIKERWX0/view?usp=sharing)
 
- 
+#
+**Sample Work**
+* [Test Plan]()/
+* [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
+* [Bug Report]()/
+* [Bug Report in Jira](https://drive.google.com/file/d/1SRjwVC0y5v_2XJNrvMqvLIeyQ4XI392V/view?usp=sharing)
+* [Automation Test]()/
+* [REST API Test]()/
+* [Test Report]()/
