@@ -25,6 +25,16 @@ Even though I had a short time as a Tester, having a background in web developme
 
  With regards to working with a team, I am fairly comfortable both working remotely or on-site as this has been my working environment since 2019. I have communicated and collaborated both clients or colleagues using multiple modern forms of communication.
 
+# 
+**Training**
+- Software Quality Assurance Manual Testing
+- Postman Beginner's Course - API Testing
+
+# 
+**Certificates**
+
+[Software Quality Assurance Manual Testing](https://drive.google.com/file/d/1rrIm3YzpIHZZot9mC2Y6b9hJSIKERWX0/view?usp=sharing)
+
 #
 **Tools**
 - Test Documentation
@@ -40,7 +50,7 @@ Even though I had a short time as a Tester, having a background in web developme
   - [Cypress](https://www.cypress.io/)
   - Selenium
 - API Testing
-  - Postman
+  - [Postman](https://www.postman.com/)
 - Development
   - VSCode
   - Git
@@ -68,15 +78,6 @@ Even though I had a short time as a Tester, having a background in web developme
 - Attention to detail
 - Can work independently if needed
   
-# 
-**Training**
-- Software Quality Assurance Manual Testing
-
-# 
-**Certificates**
-
-[Software Quality Assurance Manual Testing](https://drive.google.com/file/d/1rrIm3YzpIHZZot9mC2Y6b9hJSIKERWX0/view?usp=sharing)
-
 #
 **Sample Work**
 * [Test Plan]()/
