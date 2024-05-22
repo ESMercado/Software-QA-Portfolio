@@ -43,4 +43,4 @@ The request is a simple health check endpoint to confirm whether the API is up a
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/fe74eb94-da57-4af0-8c3c-fa270beed5b0)
 
-[Go to Top]("#restful-api-testing-using-postman")
+[Go to Top](#restful-api-testing-using-postman)
