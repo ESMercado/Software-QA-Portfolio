@@ -17,7 +17,7 @@ For this pupose of the portfolio the API is a great tool for demonstraiting real
 # <h3>API Documentation</h3>
 The documentation can be read here: https://restful-booker.herokuapp.com/apidoc/index.html
 
-# <h3>Process</h3>h3>
+# <h3>Process</h3>
 
 My approach on this is to first understand what the product requirments are in order properly set test scenarios and then build test cases based on the created test scenarios.
 
