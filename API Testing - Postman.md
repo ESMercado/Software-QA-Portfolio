@@ -169,7 +169,9 @@ Test if API can delete bookings. Using the bookingId variable in step 2 to use a
 Test if API authentication can properly provide an access token and access poitns for updates and delete request. In the documentation. Testers can use the user name:```admin``` and password: ```password123``` set as a basic authentication in the authentication tab of the collection.
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/12581f74-7807-4741-aa27-4a269175a3a7)
+#
 
+You can run the test by downloading the test file 
 
 #
 [Go to Top](#restful-api-testing-using-postman)
