@@ -1,7 +1,6 @@
 # Restful API Testing using Postman
-[Go to Bottom](#---)
-
-**Tools**
+[Processes](#process)  -  [Test Case](#test-cases)  -  [Go to Bottom](#---)
+# <h3> Tools </h3>
 * API: [Restful-Booker](https://restful-booker.herokuapp.com/)
 * Postman - Testing
 
@@ -60,12 +59,21 @@ JSON body:
 }
 ```
 
-The request response must return a status code 200. After that 
+The request response must return a status code 200. After that the I set a global variable as the bookingId value to keep track the test incase an error occures.
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/0976c11b-1449-410b-a826-8a8d7f30abae)
 
-**3 - 
+**3 - GET all booking
 
+Test if API can collect all created bookings in the database. Using the link ``` https://restful-booker.herokuapp.com ```
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/013c5d40-56ef-4d43-96db-071fafb39e44)
+
+**4 - GET 1 unique booking using ID
+
+Test if API can filter 1 booking. Using the bookingId variable in the previous step to use as a filter to 
+
+#
 [Go to Top](#restful-api-testing-using-postman)
 
 # ---
