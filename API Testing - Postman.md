@@ -1,4 +1,5 @@
 # Restful API Testing using Postman
+[Go to Bottom](#---)
 
 **Tools**
 * API: [Restful-Booker](https://restful-booker.herokuapp.com/)
@@ -34,8 +35,37 @@ In this scenario the company is a well known hiring agency from a big city and i
 
 # <h3>Test Cases</h3>
 
-The request is a simple health check endpoint to confirm whether the API is up and running. a response of code status: 201 indicated the API is connected and running.
+**1 - Ping Check**
+
+The request is a simple health check endpoint to confirm whether the API is up and running. Testing to see if a response of code status: 201 indicates the API is connected and running.
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/fe74eb94-da57-4af0-8c3c-fa270beed5b0)
 
+**2 - Create Booking**
+
+Setting a request to create a booking into the database through the API Post /booking
+
+JSON body:
+```
+{
+    "firstname" : "Elmer",
+    "lastname" : "Mercado",
+    "totalprice" : {{$randomPrice}},
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-01-01",
+        "checkout" : "2024-01-07"
+    },
+    "additionalneeds" : "Dinner"
+}
+```
+
+The request response must return a status code 200. After that 
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/0976c11b-1449-410b-a826-8a8d7f30abae)
+
+**3 - 
+
 [Go to Top](#restful-api-testing-using-postman)
+
+# ---
