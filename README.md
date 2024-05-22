@@ -1,6 +1,10 @@
 # <div align="center"> Elmer S. Mercado Jr  <br> <h5> Software QA Portfolio <h5></div>
 
-**About Me**
+
+[Experience](#experience) - [Sample Work](#sample-work) - [Training](#training) - [Tools](#tools) - [Technical Skills](#technical-skills) - [Got to End](#soft-skills) 
+
+
+# <h3>About Me</h3>
 
 Hi, my name is Elmer or **"Mer"** for short. Since the biginning of 2024 I have gained a lot of interest in the area of QA Testing in the software developement lifecycle. As someone who have been supporting businesses and corporations by building systems to efficiently handle company data to readable information for the last 5 years, I begged the question "How do I check if what I'm creating now properly works not jus in development but also in production?". Since then I have applied some of the this I have researched to my work.
 
@@ -8,8 +12,7 @@ With this portfolio, I would like to share the things I have learned and applied
 
 [LinkedIn](www.linkedin.com/in/elmer-mercado-jr-054b6b162)
 
-# 
-**Experience**
+#<h3>Experience</h3>
 
 **Testing Experience**
 
@@ -25,8 +28,8 @@ Even though I had a short time as a hired Tester, having a background in web dev
 
  With regards to working with a team, I am fairly comfortable both working remotely or on-site as this has been my working environment since 2019. I have communicated and collaborated both clients or colleagues using multiple modern forms of communication.
 
-#
-**Sample Work**
+# <h3>Sample Work</h3>
+
 * [Test Plan]()/
 * [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
 * [Bug Report]()/
@@ -35,18 +38,17 @@ Even though I had a short time as a hired Tester, having a background in web dev
 * [REST API Test](https://github.com/ESMercado/Software-QA-Portfolio/blob/aca7b6413e351484170d55980250a06c54e74a2d/API%20Testing%20-%20Postman.md)/
 * [Test Report]()/
   
-# 
-**Training**
+# <h3>Training</h3>
+
 - Software Quality Assurance Manual Testing
 - Postman Beginner's Course - API Testing
 
-# 
-**Certificates**
+# <h3>Certificates</h3>
 
 [Software Quality Assurance Manual Testing](https://drive.google.com/file/d/1rrIm3YzpIHZZot9mC2Y6b9hJSIKERWX0/view?usp=sharing)
 
-#
-**Tools**
+# <h3>Tools</h3>
+
 - Test Documentation
   - [Test Rail](https://www.testrail.com/)
   - MS Word or Google Docs
@@ -69,8 +71,8 @@ Even though I had a short time as a hired Tester, having a background in web dev
   - Javascript
   - Node.JS
 
-#
-**Technical Skills**
+# <h3>Technical Skills</h3>
+
 - Web development (Html, CSS, Javascript)
 - Project Documentation
 - Test Documentation
@@ -80,11 +82,13 @@ Even though I had a short time as a hired Tester, having a background in web dev
 - Basic Python for file and data management
 - Moderate Data Analytics 
 
-#
-**Soft Skills**
+# <h3>Soft Skills</h3>
+
 - Communication in a corporate setting
 - Collaboration
 - Resourcefullness
 - Attention to detail
 - Can work independently if needed
-  
+
+
+[Got to Top]()
