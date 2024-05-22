@@ -35,7 +35,7 @@ Even though I had a short time as a hired Tester, having a background in web dev
 * [Bug Report]()/
 * [Bug Report in Jira](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
 * [Automation Test]()/
-* [REST API Test](https://github.com/ESMercado/Software-QA-Portfolio/blob/aca7b6413e351484170d55980250a06c54e74a2d/API%20Testing%20-%20Postman.md)/
+* [REST API Test](https://github.com/ESMercado/Software-QA-Portfolio/blob/aca7b6413e351484170d55980250a06c54e74a2d/API%20Testing%20-%20Postman.md)
 * [Test Report]()/
   
 # <h3>Training</h3>
