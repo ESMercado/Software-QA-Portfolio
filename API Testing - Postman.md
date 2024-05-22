@@ -158,6 +158,18 @@ JSON body:
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/35100a9e-26d9-4532-ae2c-e8fbb6769912)
 
+**13 - DELETE partial update name booking Copy**
+
+Test if API can delete bookings. Using the bookingId variable in step 2 to use as a filter to retreive a created booking to insure the selected booking is deleted. Delete request is ```{{baseUrl}}/booking/:bookingId```. The expected response should be Code status: 200.
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/4368eab0-33f2-476b-be55-5220ced4c075)
+
+**14 - POST Set Authorization**
+
+Test if API authentication can properly provide an access token and access poitns for updates and delete request. In the documentation. Testers can use the user name:```admin``` and password: ```password123``` set as a basic authentication in the authentication tab of the collection.
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/12581f74-7807-4741-aa27-4a269175a3a7)
+
 
 #
 [Go to Top](#restful-api-testing-using-postman)
