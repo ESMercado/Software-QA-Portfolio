@@ -171,7 +171,7 @@ Test if API authentication can properly provide an access token and access poitn
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/12581f74-7807-4741-aa27-4a269175a3a7)
 #
 
-You can run the test by downloading the test file 
+You can run the test by downloading the test file: [restful-booker.postman_collection.json]()
 
 #
 [Go to Top](#restful-api-testing-using-postman)
