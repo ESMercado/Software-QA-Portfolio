@@ -171,7 +171,8 @@ Test if API authentication can properly provide an access token and access poitn
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/12581f74-7807-4741-aa27-4a269175a3a7)
 #
 
-You can run the test by downloading the test file: [restful-booker.postman_collection.json]()
+You can run the test by downloading the test file: [restful-booker.postman_collection.json](https://github.com/ESMercado/Software-QA-Portfolio/blob/8f0ab04685ea37d092451f034f7998bd0820c2e3/Testing-files/restful-booker.postman_collection.json)
+and install newman in your terminal using command ```npm install -g newman``` and run the test by typing ```newman run restful-booker.postman_collection.json``` 
 
 #
 [Go to Top](#restful-api-testing-using-postman)
