@@ -2,7 +2,7 @@
 
 **About Me**
 
-Hi, my name is Elmer or **"Mer"** for short. Since the biginning of 2024 I have gained a lot of interest in the area of QA Testing in the software developement lifecycle. As someone who have been supporting businesses and corporations by building systems to efficiently handle company data to readable information for the last 5 years, I begged the question "How do I check if what I'm creating now properly works in production?". Since then I have applied some of the this I have researched to my work.
+Hi, my name is Elmer or **"Mer"** for short. Since the biginning of 2024 I have gained a lot of interest in the area of QA Testing in the software developement lifecycle. As someone who have been supporting businesses and corporations by building systems to efficiently handle company data to readable information for the last 5 years, I begged the question "How do I check if what I'm creating now properly works not jus in development but also in production?". Since then I have applied some of the this I have researched to my work.
 
 With this portfolio, I would like to share the things I have learned and applied from the courses I have joined, the self-taught journey I have gone through and parts of my past work experience as an independent developer. I am determined and excited to grow in this field of IT 
 
@@ -19,12 +19,22 @@ Officially, I have less than a year of experience as a Software Tester in a comm
 - Coordinate with the developers of test scenarios. 
 - Update outdated test cases of the existing documentation of a project.
 
-Even though I had a short time as a Tester, having a background in web development and DevOps techniques allowed me to quickly pick up testing methodologies and techniques with litle needed training by the company during that time. I am also learning Automation Testing and API Testing on my free time which I have samples below.
+Even though I had a short time as a hired Tester, having a background in web development and DevOps techniques allowed me to quickly pick up testing methodologies and techniques with litle needed training by the company during that time. I am also constantly learning Testing techniques and API Testing on my free time which I have samples below.
 
 **Collaboration Experience**
 
  With regards to working with a team, I am fairly comfortable both working remotely or on-site as this has been my working environment since 2019. I have communicated and collaborated both clients or colleagues using multiple modern forms of communication.
 
+#
+**Sample Work**
+* [Test Plan]()/
+* [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
+* [Bug Report]()/
+* [Bug Report in Jira](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
+* [Automation Test]()/
+* [REST API Test]()/
+* [Test Report]()/
+  
 # 
 **Training**
 - Software Quality Assurance Manual Testing
@@ -78,12 +88,3 @@ Even though I had a short time as a Tester, having a background in web developme
 - Attention to detail
 - Can work independently if needed
   
-#
-**Sample Work**
-* [Test Plan]()/
-* [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
-* [Bug Report]()/
-* [Bug Report in Jira](https://drive.google.com/file/d/1SRjwVC0y5v_2XJNrvMqvLIeyQ4XI392V/view?usp=sharing)
-* [Automation Test]()/
-* [REST API Test]()/
-* [Test Report]()/
