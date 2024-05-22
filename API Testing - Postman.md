@@ -21,7 +21,7 @@ The documentation can be read here: https://restful-booker.herokuapp.com/apidoc/
 
 My approach on this is to first understand what the product requirments are in order properly set test scenarios and then build test cases based on the created test scenarios.
 
-# <h3>Scenario</h3>h3>
+# <h3>Scenario</h3>
 
 In this scenario the company is a well known hiring agency from a big city and is building an API for their appointments setting tool which they will be using in their company system to manage their appointments on future hiring processes such as interviews for their clients. The API will serve as a pioneer for the company to allow their development team to develope a web app for the public and other companies to use.
 
