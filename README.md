@@ -1,4 +1,4 @@
-# <div align="center"> Elmer S. Mercado Jr  <br> <h5> Software QA Portfolio <h5></div>
+# <div align="center">Elmer S. Mercado Jr  <br> <h5> Software QA Portfolio<h5></div>
 
 
 [Experience](#experience) - [Sample Work](#sample-work) - [Training](#training) - [Tools](#tools) - [Technical Skills](#technical-skills) - [Got to End](#soft-skills) 
@@ -91,4 +91,4 @@ Even though I had a short time as a hired Tester, having a background in web dev
 - Can work independently if needed
 
 
-[Got to Top]()
+[Got to Top](#elmer-s-mercado-jr----software-qa-portfolio)
