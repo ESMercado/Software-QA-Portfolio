@@ -34,6 +34,7 @@ In this scenario the company is a well known hiring agency from a big city and i
 
 # <h3>Test Cases</h3>
 
+Base URL: https://restful-booker.herokuapp.com
 **1 - Ping Check**
 
 The request is a simple health check endpoint to confirm whether the API is up and running. Testing to see if a response of code status: 201 indicates the API is connected and running.
@@ -59,19 +60,45 @@ JSON body:
 }
 ```
 
-The request response must return a status code 200. After that the I set a global variable as the bookingId value to keep track the test incase an error occures.
+The request response must return a status code 200. After that I set a global variable as the bookingId, first name and last name values to keep track the test incase an error occures.
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/0976c11b-1449-410b-a826-8a8d7f30abae)
 
-**3 - GET all booking
+**3 - GET get all booking
 
-Test if API can collect all created bookings in the database. Using the link ``` https://restful-booker.herokuapp.com ```
+Test if API can collect all created bookings in the database. Sending the GET request ``` {{baseUrl}}/booking ``` will expect a status code 200. 
 
 ![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/013c5d40-56ef-4d43-96db-071fafb39e44)
 
-**4 - GET 1 unique booking using ID
+**4 - GET show 1 booking
 
-Test if API can filter 1 booking. Using the bookingId variable in the previous step to use as a filter to 
+Test if API can filter 1 booking. Using the bookingId variable in step 2 to use as a filter to retreive a created booking to insure a record will return.
+Get request is ```{{baseUrl}}/booking/:bookingId``` 
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/e0ab64f1-12d7-4517-9ff9-d09f888d5413)
+
+**5 - GET filter non-existing booking
+
+Test if API can resturn 404. Using a random number or kust '00' as the bookingId to use as a filter to retreive non-existing booking to insure a record will not return.
+Get request is ```{{baseUrl}}/booking/00```. The expected response should be 404: Not found
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/3fde20f2-f72d-435b-bbbf-ab14e6e4c1d7)
+
+**6 - Get filter by first name
+
+Test if API can filter 1 booking. Using the firstname variable in step 2 to use as a filter to retreive a created booking to insure a record will return.
+Get request is ```{{baseBUrl}}/booking?firstname={{fName}} ```. The expected response should be Code status: 200
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/591a627f-3ebd-4dbe-87b1-8e95109d2335)
+
+**7 - Get filter by last name
+
+Test if API can filter 1 booking. Using the lastname variable in step 2 to use as a filter to retreive a created booking to insure a record will return.
+Get request is ```{{baseBUrl}}/booking?firstname={{fName}} ```. The expected response should be Code status: 200
+
+![image](https://github.com/ESMercado/Software-QA-Portfolio/assets/170240544/923c8912-91c2-48a0-bf65-a91bc52f354b)
+
+
 
 #
 [Go to Top](#restful-api-testing-using-postman)
