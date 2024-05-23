@@ -30,13 +30,12 @@ Even though I had a short time as a hired Tester, having a background in web dev
 
 # <h3>Sample Work</h3>
 
-* [Test Plan]()/
 * [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
-* [Bug Report]()/
+* [Bug Report](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
 * [Bug Report in Jira](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
-* [Automation Test]()/
+* [Automation Test - to be added](#)
 * [REST API Test](https://github.com/ESMercado/Software-QA-Portfolio/blob/aca7b6413e351484170d55980250a06c54e74a2d/API%20Testing%20-%20Postman.md)
-* [Test Report]()/
+* [Test Report - to be added](#)
   
 # <h3>Training</h3>
 
