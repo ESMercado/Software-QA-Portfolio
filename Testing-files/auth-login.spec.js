@@ -44,9 +44,6 @@ test("Login using non-existing user", async ({page}) => {
 
     // Check if error message is visible
     await expect(page.getByRole('alert').locator('div').first()).toBeVisible();
-
-    // check if page loads properly after logging in
-    // await expect(page).toHaveURL('https://magento.softwaretestingboard.com/');
     
 });
 
