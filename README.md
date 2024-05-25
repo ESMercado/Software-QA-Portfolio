@@ -33,7 +33,7 @@ Even though I had a short time as a hired Tester, having a background in web dev
 * [Test Case](https://docs.google.com/document/d/1rswsSuCYKROazp8FPwjWFGVsRL5JMdIM/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
 * [Bug Report](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
 * [Bug Report in Jira](https://docs.google.com/document/d/10nUX5rXID0vEW5E4P7AB7rn2MmHWEAQP/edit?usp=sharing&ouid=103417413379000261196&rtpof=true&sd=true)
-* [Automation Test - to be added](#)
+* [Automation Test - Playwright](https://github.com/ESMercado/Software-QA-Portfolio/blob/2acc54b9f164a91c3cb4134cfd2b99db31dd7d1d/Testing-files/auth-login.spec.js)
 * [REST API Test](https://github.com/ESMercado/Software-QA-Portfolio/blob/aca7b6413e351484170d55980250a06c54e74a2d/API%20Testing%20-%20Postman.md)
 * [Test Report - to be added](#)
   
